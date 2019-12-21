@@ -13,3 +13,9 @@ end
 
 bob = Backer.new 
 awesome_project = Project.new("This Is An Awesome Project")
+
+bob.back_project(awesome_project)
+
+bob.backed_projects
+
+awesome_project.backers
