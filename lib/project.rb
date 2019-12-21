@@ -6,4 +6,4 @@ class Project
   end
 end
 
-awesome_project.new
+awesome_project = Project.new("This Is An Awesome Project")
