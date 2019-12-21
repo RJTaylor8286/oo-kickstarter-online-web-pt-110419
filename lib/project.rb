@@ -5,3 +5,5 @@ class Project
     @name = name
   end
 end
+
+awesome_project.new
